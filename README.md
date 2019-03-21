@@ -1,4 +1,4 @@
-# arxiv_cs_dataset_web_labeler
+# Web annotator for arXiv CS datasets
 #### Ctrl + F "TODO" to customize parts of your website.
 #### Dev Tools: 
 ##### - MAMP for Mac
