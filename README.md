@@ -4,3 +4,4 @@
 ##### - MAMP for Mac
 ##### - WAMP for Window
 #### Example link: localhost:8888/abstract.php?id=fileid_1
+#### Update the "your_contributors_list.txt"
